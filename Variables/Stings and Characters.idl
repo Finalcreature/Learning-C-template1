@@ -1,0 +1,9 @@
+namespace Variables
+{
+    [default_interface]
+    runtimeclass Stings_and_Characters : Windows.UI.Xaml.Controls.Page
+    {
+        Stings_and_Characters();
+        Int32 MyProperty;
+    }
+}

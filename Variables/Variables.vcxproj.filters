@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Strings">
+      <UniqueIdentifier>{d0334d32-d10f-45ee-a715-970c565348e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Functions">
+      <UniqueIdentifier>{cbe328cb-0208-4d4f-912b-449660cce6f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Statements and Operators">
+      <UniqueIdentifier>{7e823880-1a36-4ada-ac0a-7af937bb791f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Variablees">
+      <UniqueIdentifier>{30bdf52b-2d97-472f-93d8-72fae3043d41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Arrays">
+      <UniqueIdentifier>{dcefb2af-c38d-4c89-b1c9-b0b52b11c28b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Vectors">
+      <UniqueIdentifier>{287d2d75-5f50-43c4-abff-4797c2850fd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Control">
+      <UniqueIdentifier>{70a6085b-140d-48a5-8a28-9262e052755f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Revisions">
+      <UniqueIdentifier>{a95ea83c-bcca-4aba-b7de-43d801580465}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Random Internet Challenges">
+      <UniqueIdentifier>{dbf13e10-bf0e-46b0-a687-5f7255479400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pointers">
+      <UniqueIdentifier>{4090672b-3916-4003-99d2-6dc8183e1bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\My Own Practices">
+      <UniqueIdentifier>{9cd493b9-4feb-41bc-9bcd-b95338a6d4cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OOP">
+      <UniqueIdentifier>{155763b2-ecbd-46b5-9f67-be9a96659d67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OOP\Account">
+      <UniqueIdentifier>{f40180b6-5f94-413b-aeb7-9e130c9d54e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OOP\Static Members">
+      <UniqueIdentifier>{c8117ecf-99f4-477b-94cf-f63249b7d8ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OOP\Challenge">
+      <UniqueIdentifier>{16b20619-2a7b-4ee1-a876-61ce031de58b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading">
+      <UniqueIdentifier>{2dff2612-0f47-4614-9aab-7518a57d8855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystirng - projects">
+      <UniqueIdentifier>{f453ad5b-8d08-4f17-9b40-8337db1679d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystirng - projects\Mystring -start">
+      <UniqueIdentifier>{edff7175-3a1e-4ca4-9ca3-7b9377089b33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystirng - projects\Mysting - Assignment">
+      <UniqueIdentifier>{736c2bda-c0d2-44b4-a4de-8aa65007f6e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystirng - projects\Mystring - Move">
+      <UniqueIdentifier>{4e253844-baa7-4335-8d88-1ad02216db76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystirng - projects\Mystring - Operator method">
+      <UniqueIdentifier>{34e485cc-c592-4483-9e94-6fbb6e937399}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystring - Operator Functions">
+      <UniqueIdentifier>{8ed1948b-b5d5-4c92-8832-64174606a155}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystring-cout/cin">
+      <UniqueIdentifier>{c94b7e07-accb-457e-b2f2-34b0eb30d994}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading\Mystirng - projects\Mystring - Challenge">
+      <UniqueIdentifier>{ede95824-0814-42d9-8c55-dc83f4ca227d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Volume calculations.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Maths Functions.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Pass-by-value.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings - Exercises.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Temprature conversion - excersice.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions defaults.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Grocery List - Exercise.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Bill - Exercise.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Overloading.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculating area - exercise.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Passing Arrays to Functions.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Passing Array to Function - Exercise.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings Basic 1.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings Basic 2.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings Basic 3.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings Basic 4.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Convert EUR to USD.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Increment and Decrement.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Convert Expressions.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Boolean.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic Operator - Bounds.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic Operator - Weather.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Pennies Change - Exercise.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculate Room Area.cpp">
+      <Filter>Source Files\Variablees</Filter>
+    </ClCompile>
+    <ClCompile Include="Hour Wage Calculation.cpp">
+      <Filter>Source Files\Variablees</Filter>
+    </ClCompile>
+    <ClCompile Include="Size of Information in Bytes.cpp">
+      <Filter>Source Files\Variablees</Filter>
+    </ClCompile>
+    <ClCompile Include="Room Price - Exercise.cpp">
+      <Filter>Source Files\Variablees</Filter>
+    </ClCompile>
+    <ClCompile Include="Room Price with Constants - Exercise.cpp">
+      <Filter>Source Files\Variablees</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable - Challenge.cpp">
+      <Filter>Source Files\Variablees</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic Statment.cpp">
+      <Filter>Source Files\Statements and Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic Array.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Array Examples.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector access.cpp">
+      <Filter>Source Files\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Adding Index to Vector.cpp">
+      <Filter>Source Files\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="2D Vector.cpp">
+      <Filter>Source Files\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Vectors - Challenge.cpp">
+      <Filter>Source Files\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="If Statments.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="If Statments with Const.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Else If.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Else If With Const.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Conditional Opertator.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="For Loop.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector For Loop.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Range For Loop.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="While Loop.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Do While.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Nested For Loop.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Control - Challenge.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Newone.cpp">
+      <Filter>Source Files\Revisions</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges.cpp">
+      <Filter>Source Files\Random Internet Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="Pass by Reference.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Guest List - Exercise.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Scope Rules.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="How Function Calls Work.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacci - Recursive Functions.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial - Recusvie Functions.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Save a Penny - Exercise.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions - Challenge.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Accessing Pointers.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Dereferencing.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Memory.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrays and Pointers.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer Arithmetic.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Passing Pointers 1.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Passing Pointers 2.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Passing Pointers 3.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Return Pointer.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers.cpp">
+      <Filter>Source Files\My Own Practices</Filter>
+    </ClCompile>
+    <ClCompile Include="References.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Debugger.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer - Challenge.cpp">
+      <Filter>Source Files\Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Declaring Classes.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Accessing Class Members.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Access Modifiers.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementing 1.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementing 2 %28main%29.cpp">
+      <Filter>Source Files\OOP\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>Source Files\OOP\Account</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructors and Destructors.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Default Constactor.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor Initialization.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Delegating Constructors.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Default Constructor Parameters.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy Constructor.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Shallow Copy.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Deep Copy.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Move Constructor.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Const in Classes.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\OOP\Static Members</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\OOP\Static Members</Filter>
+    </ClCompile>
+    <ClCompile Include="main_challenge.cpp">
+      <Filter>Source Files\OOP\Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\OOP\Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Games.cpp">
+      <Filter>Source Files\OOP\Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="main - Mystring.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring -start</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring -start</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring2.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mysting - Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring2 - main.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mysting - Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring3.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Move</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring3 - main.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Move</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring4 - main.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Operator method</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring4.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Operator method</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring5.cpp">
+      <Filter>Source Files\Operator Overloading\Mystring - Operator Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring5 - main.cpp">
+      <Filter>Source Files\Operator Overloading\Mystring - Operator Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring6.cpp">
+      <Filter>Source Files\Operator Overloading\Mystring-cout/cin</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring6 - main.cpp">
+      <Filter>Source Files\Operator Overloading\Mystring-cout/cin</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring7.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring7 - main.cpp">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Challenge</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Source Files\OOP\Account</Filter>
+    </ClInclude>
+    <ClInclude Include="PLAYER.h">
+      <Filter>Source Files\OOP\Static Members</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files\OOP\Challenge</Filter>
+    </ClInclude>
+    <ClInclude Include="Games.h">
+      <Filter>Source Files\OOP\Challenge</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring.h">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring -start</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring2.h">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mysting - Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring3.h">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Move</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring4.h">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Operator method</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring5.h">
+      <Filter>Source Files\Operator Overloading\Mystring - Operator Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring6.h">
+      <Filter>Source Files\Operator Overloading\Mystring-cout/cin</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring7.h">
+      <Filter>Source Files\Operator Overloading\Mystirng - projects\Mystring - Challenge</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Variables.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
